@@ -1,0 +1,22 @@
+{
+  "name": "quickbite",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/liya-mary/QuickBite#readme",
+  "bugs": {
+    "url": "https://github.com/liya-mary/QuickBite/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liya-mary/QuickBite.git"
+  },
+  "license": "ISC",
+  "author": "Liya Mary",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
